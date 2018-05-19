@@ -1,8 +1,8 @@
-# Copyright (C) 2018
-# vmware_esxi_host_backup.py
-# This script by default will backup VMware ESXI host configurations to a file and if desired copy to TFTP server
-# Author - Nick Moody - netassured.co.uk
-# Last Updated 19th May 2018
+Copyright (C) 2018
+vmware_esxi_host_backup.py
+This script by default will backup VMware ESXI host configurations to a file and if desired copy to TFTP server
+Author - Nick Moody - netassured.co.uk
+Last Updated 19th May 2018
 
 Requirements
 1) VMware VCli installed - https://code.vmware.com/tool/vsphere-cli/6.5
