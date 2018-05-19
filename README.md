@@ -12,7 +12,7 @@ Last Updated 19th May 2018<br>
 2) Intially connect to the host to retrieve the thumbprint<br>
 3) TFTP server to send the running configs too<br>
 <br>
-Known limitations:<br>
+<b>Known limitations:</b><br>
 TFTP is not encrypted so only execute this script on a dedicated management network or over a VPN.
 <br>
 This script backs up the host configuration only it does not backup the VM's running on the host. You will
