@@ -1,7 +1,4 @@
 # VMware ESXi Host Backups Python Script
-Copyright (C) 2018
-<br>
-vmware_esxi_host_backup.py
 <br>
 This script by default will backup VMware ESXI host configurations to a file and if desired copy to TFTP server
 <br>
